@@ -1,4 +1,10 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Library Management System</title>
+</head>
 <body>
   <h1>📚 Library Management System</h1>
   <p>
@@ -19,16 +25,13 @@
 
   <h3>Prerequisites</h3>
   <ul>
-    <li>Java 17 or higher</li>
+    <li>Java 11 or higher</li>
     <li>Spring Boot</li>
     <li>Postman or any HTTP client</li>
   </ul>
 
   <h3>Steps to Run</h3>
   <ol>
-    <li>Clone the repository:
-      <pre><code>git clone https://github.com/chisa-sifiso/TUTLibraryManagementSystemAPI.git></pre>
-    </li>
     <li>Open the project in your IDE (e.g., IntelliJ IDEA or Eclipse).</li>
     <li>Run the application:
       <pre><code>mvn spring-boot:run</code></pre>
@@ -89,7 +92,5 @@
   <h2>📄 License</h2>
   <p>This project is licensed under the MIT License.</p>
 
-  <h2>📧 Contact</h2>
-  <p>For inquiries or support, please contact <a href="mailto:support@librarysystem.com">support@librarysystem.com</a>.</p>
 </body>
 </html>
